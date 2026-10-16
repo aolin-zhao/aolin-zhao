@@ -1,12 +1,13 @@
 settings:
-  username: "xiaoaozz"
+  username: "aolin-zhao"
   commit_msg: "chore: update recent GitHub activity"
   max_lines: 5
   readme_file: "./README.md"
   disabled_events:
     - "comments"
   ignored_repos:
-    - "xiaoaozz/xiaoaozz"
+    - "aolin-zhao/xiaoaozz"
+    - "aolin-zhao/aolin-zhao"
   date:
     timezone: "GMT+08:00"
     text: "<sub>Last updated: {DATE} (UTC+8)</sub>"

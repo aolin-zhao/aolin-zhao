@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=42D445&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+xiaoaozz+%F0%9F%91%8B;Test+Development+Engineer+%C2%B7+AI+Enthusiast;Exploring+AI+Agents+and+LLM+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=42D445&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+aolin-zhao+%F0%9F%91%8B;Test+Development+Engineer+%C2%B7+AI+Enthusiast;Exploring+AI+Agents+and+LLM+Engineering)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/xiaoaozz?label=Follow&style=social)](https://github.com/xiaoaozz)
-[![GitHub stars](https://img.shields.io/github/stars/xiaoaozz?affiliations=OWNER&style=social)](https://github.com/xiaoaozz)
+[![GitHub followers](https://img.shields.io/github/followers/aolin-zhao?label=Follow&style=social)](https://github.com/aolin-zhao)
+[![GitHub stars](https://img.shields.io/github/stars/aolin-zhao?affiliations=OWNER&style=social)](https://github.com/aolin-zhao)
 
 </div>
 
@@ -52,36 +52,36 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/xiaoaozz/AgentPulse">AgentPulse</a></h3>
+      <h3>🤖 <a href="https://github.com/aolin-zhao/AgentPulse">AgentPulse</a></h3>
       <p>A lightweight native dashboard for tracking Codex, Claude Code, and custom AI Agent sessions across macOS and Windows.</p>
       <p><code>Swift</code> <code>SwiftUI</code> <code>WinUI 3</code> <code>.NET 8</code></p>
-      <a href="https://github.com/xiaoaozz/AgentPulse">View repository →</a>
+      <a href="https://github.com/aolin-zhao/AgentPulse">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/xiaoaozz/KfSmart">KfSmart</a></h3>
+      <h3>🧠 <a href="https://github.com/aolin-zhao/KfSmart">KfSmart</a></h3>
       <p>An enterprise-grade RAG knowledge base with intelligent document processing, semantic search, and multi-tenant access control.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>Vue 3</code> <code>Elasticsearch</code></p>
-      <a href="https://github.com/xiaoaozz/KfSmart">View repository →</a>
+      <a href="https://github.com/aolin-zhao/KfSmart">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/xiaoaozz/learn-claude-code">learn-claude-code</a></h3>
+      <h3>🛠️ <a href="https://github.com/aolin-zhao/learn-claude-code">learn-claude-code</a></h3>
       <p>A from-scratch exploration of coding-agent harness engineering, covering tools, context, permissions, and agent loops.</p>
       <p><code>TypeScript</code> <code>AI Agent</code> <code>LLM</code></p>
-      <a href="https://github.com/xiaoaozz/learn-claude-code">View repository →</a>
+      <a href="https://github.com/aolin-zhao/learn-claude-code">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/xiaoaozz/jvm-by-head-go">jvm-by-head-go</a></h3>
+      <h3>☕ <a href="https://github.com/aolin-zhao/jvm-by-head-go">jvm-by-head-go</a></h3>
       <p>A JVM implementation written in Go, built to explore class loading, class-file parsing, and bytecode execution from first principles.</p>
       <p><code>Go</code> <code>JVM</code> <code>Bytecode</code></p>
-      <a href="https://github.com/xiaoaozz/jvm-by-head-go">View repository →</a>
+      <a href="https://github.com/aolin-zhao/jvm-by-head-go">View repository →</a>
     </td>
   </tr>
 </table>
 
 <div align="right">
-  <a href="https://github.com/xiaoaozz?tab=repositories">Explore all projects →</a>
+  <a href="https://github.com/aolin-zhao?tab=repositories">Explore all projects →</a>
 </div>
 
 <!-- PROJECTS:END -->
@@ -112,22 +112,22 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=xiaoaozz&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=xiaoaozz&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=vue">
-    <img height="185" src="https://github-stats-extended.vercel.app/api?username=xiaoaozz&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=vue" alt="GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aolin-zhao&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=aolin-zhao&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=vue">
+    <img height="185" src="https://github-stats-extended.vercel.app/api?username=aolin-zhao&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=vue" alt="GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaoaozz&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaoaozz&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=vue">
-    <img height="185" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaoaozz&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=vue" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=aolin-zhao&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=aolin-zhao&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=vue">
+    <img height="185" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aolin-zhao&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=vue" alt="Most used languages" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=xiaoaozz&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=xiaoaozz">
-    <img src="https://streak-stats.demolab.com/?user=xiaoaozz" alt="GitHub contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aolin-zhao&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aolin-zhao">
+    <img src="https://streak-stats.demolab.com/?user=aolin-zhao" alt="GitHub contribution streak" />
   </picture>
 </div>
 
@@ -135,9 +135,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.benkou.dev/?username=xiaoaozz&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8&no-frame=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://trophy.benkou.dev/?username=xiaoaozz&theme=flat&row=1&column=7&margin-w=8&margin-h=8&no-frame=true">
-    <img width="100%" src="https://trophy.benkou.dev/?username=xiaoaozz&theme=flat&row=1&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub profile trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.benkou.dev/?username=aolin-zhao&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8&no-frame=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://trophy.benkou.dev/?username=aolin-zhao&theme=flat&row=1&column=7&margin-w=8&margin-h=8&no-frame=true">
+    <img width="100%" src="https://trophy.benkou.dev/?username=aolin-zhao&theme=flat&row=1&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub profile trophies" />
   </picture>
 </div>
 
@@ -145,6 +145,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xiaoaozz&color=42d445&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aolin-zhao&color=42d445&style=flat-square)
 
 </div>
